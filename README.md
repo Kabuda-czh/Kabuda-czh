@@ -1,6 +1,7 @@
-### Hi There~
+<div align="center">
 
-### Code Time
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&duration=3000&pause=1000&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;My+name+is+Kabuda;I'm+a+software+developer+engineer+from+China)](https://git.io/typing-svg)
+
 [![wakatime](https://wakatime.com/badge/user/e6e4d351-af56-4ce7-8c0a-0b372c53962d.svg)](https://wakatime.com/@e6e4d351-af56-4ce7-8c0a-0b372c53962d)
 
 ### Languages
@@ -8,8 +9,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=csharp&logoColor=AE4597)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -17,10 +19,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![SolidJs](https://img.shields.io/badge/-Solid-000?&logo=Solid&logoColor=00599C)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+  
+</div>
 
 <hr />
 
